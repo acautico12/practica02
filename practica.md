@@ -38,7 +38,7 @@ En mi script enseño a instalar:
 
 - **apache2**
 
-- **Utilidades de debian** para poder asignar la contraseña que yo quiera al root.
+- **Utilidades de debian** para poder asignar la contraseña que yo quiera automaticamente al usuario root de la base de datos.
 
 - **mysql**
 
